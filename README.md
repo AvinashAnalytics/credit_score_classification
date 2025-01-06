@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **📞 Contact**
 If you have any questions, feel free to contact me:
-- **Email**: your_email@example.com
+- **Email**: masteravinashrai@gmail.com
 - **GitHub**: [@avinashanalytics](https://github.com/avinashanalytics)
 
 ---
@@ -92,13 +92,3 @@ Made with ❤️ by [AvinashAnalytics](https://github.com/avinashanalytics)
 3. **Installation & Usage**: Provides clear instructions for running the project.
 4. **Model Evaluation**: Summarizes the performance of different models.
 5. **Contributing Guidelines**: Clear instructions for contributing to the project.
-
-### Notes:
-- The `<blink>` tag may **not work on all platforms** (GitHub doesn't support it), but it is used here for emphasis.
-- This is a **pure Markdown** file, making it easy to upload to GitHub and use in your repositories.
-
-### How to Use:
-- Save the content in a **README.md** file.
-- Upload it to your GitHub repository, and the content will display with the **project title blinking** (where supported).
-
-This version is clean, professional, and optimized for GitHub, while the title’s blinking effect adds a dynamic touch.
