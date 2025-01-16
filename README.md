@@ -85,10 +85,3 @@ If you have any questions, feel free to contact me:
 
 Made with ❤️ by [AvinashAnalytics](https://github.com/avinashanalytics)
 ```
-
-### Key Features:
-1. **Blinking Project Name**: The project name at the top uses a **blinking effect** with `<blink>` (This may or may not work in all markdown viewers, but it does work in some browsers).
-2. **Project Structure**: Shows how the project is organized.
-3. **Installation & Usage**: Provides clear instructions for running the project.
-4. **Model Evaluation**: Summarizes the performance of different models.
-5. **Contributing Guidelines**: Clear instructions for contributing to the project.
