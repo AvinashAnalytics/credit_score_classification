@@ -16,15 +16,23 @@ The project is structured as follows:
 
 ```plaintext
 ├── data/                         # Dataset folder
-├── notebooks/                     # Jupyter notebooks for exploration
+├── notebooks/                     # Jupyter notebooks for exploratory data analysis
+├── reports/                       # Folder containing project reports and findings
+│   └── credit_score_classification_report_by_Avinash.pdf  # Full project report
 ├── src/                           # Source code for preprocessing & model training
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── model_evaluation.py
+│   ├── data_preprocessing.py      # Data preprocessing script
+│   ├── model_training.py          # Model training script
+│   └── model_evaluation.py       # Model evaluation script
 ├── requirements.txt               # Required dependencies
 ├── LICENSE                        # License file
 └── README.md                      # Project Readme file
 ```
+
+## 📑 Reports Folder
+The reports/ directory contains a detailed PDF report, summarizing the methods, results, and insights derived from the project. It includes an in-depth analysis of model performance, feature engineering steps, and key findings. You can access the report here:
+
+## [REPORTS](https://github.com/AvinashAnalytics/credit_score_classification/blob/main/reports/credit_card_classification_report_by_Avinash.pdf)
+
 
 ## **🔧 Installation**
 ### **Prerequisites**
